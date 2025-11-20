@@ -1,2 +1,2 @@
-# Mini-Family-Tree
-Mini Family Tree Application
+
+Mini Family Tree Application is developed by using HTML,CSS,javascript and bootstrap framework.
